@@ -1,0 +1,36 @@
+h1 {
+  font-size: 4vw;
+}
+
+h3 {
+  font-size: 3vw;
+}
+
+h5 {
+  font-size: 2vw;
+}
+
+body {
+  background-color: lightblue;
+}
+
+hr {
+  width: 50%;
+}
+
+th, td, table {
+  font-size: 3vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  padding-left: 3vw;
+  padding-right: 3vw;
+  border: 1vw solid black;
+  border-collapse: collapse;
+}
+td {
+  background-color: #33ccff;
+}
+
+th {
+  background-color: #ccffff;
+}
